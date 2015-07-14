@@ -1,5 +1,4 @@
-<?php
 
-echo "Fernando Moya";
 
-?>
+<?php echo '<p>Hola Mundo</p>'; ?>
+
