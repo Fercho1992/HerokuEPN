@@ -8,7 +8,6 @@ echo '<p>Hola Mundo</p>';
 $url=parse_url(getenv("CLEARDB_DATABASE_URL"));
 $server=$url["host"];
 $username=$url["user"];
-$=$url["host"];
-$server=$url["host"];
+$password=$url["pass"];
 ?>
 
