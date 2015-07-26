@@ -11,8 +11,13 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!--font-awesome-->
     <link href="css/font-awesome.min.css" rel="stylesheet">
+    <!--prettyPhoto-->
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <!--animate-->
+    <link href="css/animate.css" rel="stylesheet">
     <!--main-->
     <link href="css/main.css" rel="stylesheet">
+
     <!-- startedTemplate CSS -->
     <link href="css/startedTemplate.css" rel="stylesheet">
     <!-- Rural_house_32 -->
@@ -55,6 +60,8 @@
                     <li><a href="contacts.php">Contactos</a></li>
                 </ul>
             </div>
+                        <br>
+            <p>
         </div>
     </header><!--Cierre Menu de navegacion-->
 
@@ -66,10 +73,10 @@
 
                     <!--Indicadores-->
                     <ol class="carousel-indicators">
-                        <li data-target="" data-slide-to="0" class="active"></li>
-                        <li data-target="" data-slide-to="1"></li>
-                        <li data-target="" data-slide-to="2"></li>
-                        <li data-target="" data-slide-to="3"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
                     </ol>
 
                     <!--Imagenes-->
@@ -89,10 +96,10 @@
                     </div>
 
                     <!--Controles-->
-                    <a class="left carousel-control"  data-slide="prev">
+                     <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
                         <span class="glyphicon glyphicon-chevron-left"></span>
                     </a>
-                    <a class="right carousel-control"  data-slide="next">
+                    <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
                         <span class="glyphicon glyphicon-chevron-right"></span>
                     </a>
                 </div>
@@ -151,7 +158,7 @@
         </div>
     </footer><!--Pie de pagina-->
 
-<!-- jQuery -->
+    <!-- jQuery -->
     <script src="js/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>

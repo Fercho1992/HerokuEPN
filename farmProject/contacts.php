@@ -64,7 +64,8 @@
                     </li>
                 </ul>
             </div>
-
+            <br>
+            <p>
         </div>
     </header><!--Fin menu de navegacion-->
 
@@ -155,5 +156,7 @@
     <script src="js/jquery.prettyPhoto.js"></script>
     <!-- main -->
     <script src="js/main.js"></script>
+    <!-- contacts -->
+    <script src="js/contact_me.js"></script>
 </body>
 </html><!--Cierre Bloque HTML-->

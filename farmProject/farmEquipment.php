@@ -58,6 +58,8 @@
                     <li><a href="contacts.php">Contactos</a></li>
                 </ul>
             </div>
+                        <br>
+            <p>
         </div>
     </header><!--Cierre Menu de navegacion-->
 

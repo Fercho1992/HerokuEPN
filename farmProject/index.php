@@ -21,10 +21,12 @@
     <link rel="shortcut icon" href="image/Rural_house_32.png">
     
 </head><!--/head-->
+
 <body> <!--body-->
 
 <!--Menu de navegacion-->
 
+    <!--Menu de navegacion-->
     <header class="navbar navbar-inverse navbar-fixed-top wet-asphalt" role="banner">
         <div class="container">
             <div class="navbar-header">
@@ -51,9 +53,10 @@
                         </ul>
                     </li> 
                     <li><a href="contacts.php">Contactos</a></li>
-                    
                 </ul>
             </div>
+            <br>
+            <p>
         </div>
     </header><!--/header-->
 
@@ -85,7 +88,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
-                                    <h2 class="boxed animation animated-item-1">Aplicando tecnicas amigables con el ambientes</h2>
+                                    <h2 class="boxed animation animated-item-1">Aplicando tecnicas amigables con el ambiente</h2>
                                     <p class="boxed animation animated-item-2">Capacitando a nuestro personal en el uso de tecnologia de ultima generacion</p>
                                     <br>
                                     
@@ -104,13 +107,7 @@
                                     
                                 </div>
                             </div>
-                            <div class="col-sm-6 hidden-xs animation animated-item-4">
-                                <div class="centered">
-                                    <div class="embed-container">
-                                        <iframe src="https://www.youtube.com/watch?v=liMp2MknsdA?title=0&amp;byline=0&amp;portrait=0&amp;color=a22c2f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div><!--/.item-->
@@ -197,14 +194,12 @@
             </div>
         </div>
     </footer><!--Fin pie de pagina-->
-
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
     <!-- prettyPhoto -->
     <script src="js/jquery.prettyPhoto.js"></script>
-    <!-- main -->
-    <script src="js/main.js"></script>
+
 </body>
 </html><!--Fin Bloque HTML-->
