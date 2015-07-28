@@ -57,9 +57,9 @@
                     <li class="dropdown">
                         <a href="" class="dropdown-toggle" data-toggle="dropdown">Contactos<i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li><a href="login.php">Login</a></li>
+                            <li><a href="admin/login.php">Login</a></li>
                             <li class="divider"></li>
-                            <li><a href="registration.php">Registro</a></li>
+                            <li><a href="admin/registration.php">Registro</a></li>
                         </ul>
                     </li>
                 </ul>
